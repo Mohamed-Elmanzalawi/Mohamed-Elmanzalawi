@@ -18,7 +18,7 @@ Welcome to my corner of the GitHub universe! 👨‍💻
 
 ## 📫 How to Reach Me:
 
-- 🚀 Connect with me on [LinkedIn](www.linkedin.com/in/mohamed-elmanzalawi).
+- 🚀 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-elmanzalawi/).
 
 Let's code the future and unravel the secrets of data together! 🌐✨
 
