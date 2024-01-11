@@ -8,7 +8,7 @@ Welcome to my corner of the GitHub universe! 👨‍💻
 
 ## 🔬 What I'm up to:
 
-- 🌱 Learning the art of bioinformatics programming and mastering the dance of algorithms.
+- 🌱 Learning the art of bioinformatics programming and mastering its algorithms.
 - 📈 Experimenting with data sets to extract hidden insights.
 
 ## 💬 Let's Collaborate:
